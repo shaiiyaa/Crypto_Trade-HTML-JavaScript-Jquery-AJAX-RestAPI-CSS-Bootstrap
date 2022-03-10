@@ -1,0 +1,2 @@
+This is another of my first course projects in Web Development. An HTML JavaScript page written with Jquery, AJAX, REST API. The site is about real-time crypto trading, Choose coins to trade and get live reports on a Canvas graph, And coins search engine.
+Support mobile, tablet, laptop and desktop screen. Designed with SCSS and Bootstrap.
